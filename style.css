@@ -82,7 +82,7 @@ body{
 .copy-text button::after {
     content: "";
     position: absolute;
-    top: -25px;
+    top: -30px;
     right: 30px;
     width: 10px;
     height: 10px;

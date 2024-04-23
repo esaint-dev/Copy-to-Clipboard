@@ -79,7 +79,7 @@ body{
     display: none;
 }
 
-.copy-text button::after {
+/* .copy-text button::after {
     content: "";
     position: absolute;
     top: -30px;
@@ -89,9 +89,9 @@ body{
     background: white;
     transform: rotate(45deg);
     display: none;
-}
+} */
 
-.copy-text.active button::before,
-.copy-text.active button::after {
+.copy-text.active button::before
+ {
     display: block;
 }

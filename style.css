@@ -86,7 +86,7 @@ body{
     right: 30px;
     width: 10px;
     height: 10px;
-    background: #fff;
+    background: white;
     transform: rotate(45deg);
     display: none;
 }
